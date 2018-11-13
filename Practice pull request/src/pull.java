@@ -10,7 +10,7 @@ public class pull
 		
 		public static void goodbyeWorld()
 		{
-			
+			System.out.println("Hello World");
 		}
 			
 
